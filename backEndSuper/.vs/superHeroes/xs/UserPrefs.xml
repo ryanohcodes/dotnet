@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{C06A249F-DAED-4BD2-9BB4-28A5C57F6C26}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.superHeroes PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="superHeroes/Controllers/SuperHeroController.cs">
+    <Files>
+      <File FileName="superHeroes/Data/DataContext.cs" Line="13" Column="3" />
+      <File FileName="superHeroes/Program.cs" Line="17" Column="4" />
+      <File FileName="superHeroes/Migrations/20221129082315_Initial.cs" />
+      <File FileName="superHeroes/SuperHero.cs" Line="1" Column="1" />
+      <File FileName="superHeroes/Controllers/SuperHeroController.cs" Line="62" Column="47" />
+      <File FileName="superHeroes/Properties/launchSettings.json" />
+      <File FileName="superHeroes/appsettings.json" Line="3" Column="82" />
+      <File FileName="superHeroes/superHeroes.csproj" Line="16" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="superHeroes" expanded="True">
+            <Node name="superHeroes" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="SuperHeroController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20221129082315_Initial.cs" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
